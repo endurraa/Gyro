@@ -34,7 +34,7 @@ The robot's structure was custom-designed in SolidWorks and 3D printed using PLA
 * **Power Supply:** Custom 4S Li-Ion 18650 Battery Pack with a 40A BMS
 
 Gyro's skeleton:
-(🖼️ <img width="469" height="580" alt="image" src="https://github.com/user-attachments/assets/4872b4b1-f801-4427-8ed1-a223dc8cfde5" />)
+<img width="469" height="580" alt="image" src="https://github.com/user-attachments/assets/4872b4b1-f801-4427-8ed1-a223dc8cfde5" />
 
 
 ---
