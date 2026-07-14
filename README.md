@@ -9,7 +9,7 @@
 
 During physical testing, the final prototype successfully maintained stable dynamic equilibrium for **over 60 seconds** continuously.
 
-(📸 **https://github.com/user-attachments/assets/14bfd2c6-7836-42ce-a22d-3989b2a5717c**)
+(📸 https://github.com/user-attachments/assets/00a317b2-0265-4f90-86e1-ac99d9465b79)
 
 ---
 
