@@ -9,7 +9,7 @@
 
 During physical testing, the final prototype successfully maintained stable dynamic equilibrium for **over 60 seconds** continuously.
 
-*(📸 **Add a GIF/Video here showing the robot balancing!**)*
+(📸 **https://github.com/user-attachments/assets/14bfd2c6-7836-42ce-a22d-3989b2a5717c**)
 
 ---
 
@@ -32,7 +32,8 @@ The robot's structure was custom-designed in SolidWorks and 3D printed using PLA
 * **Actuators:** 2x DC Gearmotors 25GA-370
 * **Power Supply:** Custom 4S Li-Ion 18650 Battery Pack with a 40A BMS
 
-*(🖼️ **Tip: Add an image of the CAD model or the PCB schematic here**)*
+(🖼️ <img width="469" height="580" alt="image" src="https://github.com/user-attachments/assets/4872b4b1-f801-4427-8ed1-a223dc8cfde5" />)
+
 
 ---
 
@@ -52,7 +53,7 @@ Balancing is achieved using a closed-loop **PD controller** (Proportional-Deriva
 * **Fail-Safe (Fall Detection):** If the pitch angle exceeds **35°**, the system instantly cuts power to the motors.
 * **Recovery:** The robot automatically resets and re-engages the motors only when it is manually brought back to a vertical position (error < 5°).
 
-*(🖼️ **Tip: Add the flow chart of the control loop here**)*
+(🖼️ <img width="887" height="1226" alt="image" src="https://github.com/user-attachments/assets/fa35368b-cf9d-4ca0-8361-3ff5e32cdc7c" />)
 
 ---
 
@@ -69,6 +70,6 @@ Balancing is achieved using a closed-loop **PD controller** (Proportional-Deriva
 ## 👥 Team & Credits
 This project was successfully built by a team of engineering students at Bialystok University of Technology:
 * **Gabriel Kozłowski (Me)** - Firmware (C++), Electronics & BMS
-* **Maksymilian Jańczak** - 3D CAD Design, Schematics & Mechanics
+* **Maksymilian Jańczak** - 3D CAD Design, Schematics 
 * **Kacper Kołodko** - Technical Documentation & Assembly
 * **Cyprian Jarmołowicz** - Technical Documentation & Assembly
