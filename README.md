@@ -9,6 +9,7 @@
 
 During physical testing, the final prototype successfully maintained stable dynamic equilibrium for **over 60 seconds** continuously.
 
+Short video showing Gyro's abilities:
 (📸 https://github.com/user-attachments/assets/00a317b2-0265-4f90-86e1-ac99d9465b79)
 
 ---
@@ -32,6 +33,7 @@ The robot's structure was custom-designed in SolidWorks and 3D printed using PLA
 * **Actuators:** 2x DC Gearmotors 25GA-370
 * **Power Supply:** Custom 4S Li-Ion 18650 Battery Pack with a 40A BMS
 
+Gyro's skeleton:
 (🖼️ <img width="469" height="580" alt="image" src="https://github.com/user-attachments/assets/4872b4b1-f801-4427-8ed1-a223dc8cfde5" />)
 
 
@@ -53,7 +55,8 @@ Balancing is achieved using a closed-loop **PD controller** (Proportional-Deriva
 * **Fail-Safe (Fall Detection):** If the pitch angle exceeds **35°**, the system instantly cuts power to the motors.
 * **Recovery:** The robot automatically resets and re-engages the motors only when it is manually brought back to a vertical position (error < 5°).
 
-(🖼️ <img width="887" height="1226" alt="image" src="https://github.com/user-attachments/assets/fa35368b-cf9d-4ca0-8361-3ff5e32cdc7c" />)
+Flow chart of Gyro's code:
+<img width="887" height="1226" alt="image" src="https://github.com/user-attachments/assets/fa35368b-cf9d-4ca0-8361-3ff5e32cdc7c" />
 
 ---
 
