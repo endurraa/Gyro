@@ -72,7 +72,7 @@ Flow chart of Gyro's code:
 
 ## 👥 Team & Credits
 This project was successfully built by a team of engineering students at Bialystok University of Technology:
-* **Gabriel Kozłowski (Me)** - Firmware (C++), Electronics & BMS
+* **Gabriel Kozłowski (Me)** - Firmware (C++), Assembly, Electronics & BMS
 * **Maksymilian Jańczak** - 3D CAD Design, Schematics 
-* **Kacper Kołodko** - Technical Documentation & Assembly
-* **Cyprian Jarmołowicz** - Technical Documentation & Assembly
+* **Kacper Kołodko** - Technical Documentation 
+* **Cyprian Jarmołowicz** - Technical Documentation 
